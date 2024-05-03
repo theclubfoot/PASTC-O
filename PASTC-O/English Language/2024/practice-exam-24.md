@@ -1,4 +1,4 @@
-# Practice Exam 2024 A user needs to quickly deploy a non-relational database on AWS. The user does not want to manage the underlying hardware or the database software. <br/> Which AWS service can be used to accomplish this
+# Practice Exam 2024
 
 Click on the **Answer** button for the correct answer and its explanation.
 
